@@ -6,6 +6,8 @@ Content Packs will be added here every so often in a goal to preserve as much hi
 
 While downloads are still provided, we strongly recommend visiting the [official Content Packs website](https://contentpacks.net) for the most up-to-date Content Packs.
 
+##### To get started, view our repositories to browse Content Packs.
+
 ## Notice
 
 This archive organization is not affiliated nor endorsed by any Toontown project. Nor are we apart of the original team behind The Spoof Net. None of these Content Packs violate the terms of service for any Toontown project. Please note that some packs here may contain imagery that would hypothetically be considered PG-13. To browse Content Packs that are entirely family friendly and endorsed by Toontown Rewritten & Corporate Clash, please visit the [official Content Packs website](https://contentpacks.net).
